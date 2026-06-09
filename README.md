@@ -6,7 +6,7 @@ A small personal reference site for Git commands, workflow habits, and reminders
 
 ## Deployed Site
 
-Live site: Coming soon.
+Live site: https://llllltaab.github.io/developer-field-notes/
 
 ## Features
 
